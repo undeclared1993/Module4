@@ -10,6 +10,9 @@ namespace Module4
     {
         static void Main(string[] args)
         {
+            string Example = "Example";
+            Console.WriteLine(Example);
+            Console.ReadLine();
         }
     }
 }
